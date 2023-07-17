@@ -1,0 +1,65 @@
+[33m[2023-Jun-29 18:16:41.360 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'false'
+[33m[2023-Jun-29 18:16:41.641 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2023-Jun-29 18:16:46.824 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginValid][m [32m[INFO][m Login to Application using username hiriy19715@gam1fy.com
+[33m[2023-Jun-29 18:16:46.825 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginValid][m [32m[INFO][m Login to Application using password Sourav123
+[33m[2023-Jun-29 18:16:49.445 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginValid][m [36m[DEBUG][m User login to the Application successful.
+[33m[2023-Jun-29 18:16:50.566 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'false'
+[33m[2023-Jun-29 18:16:50.806 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2023-Jun-29 18:16:53.957 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:53.964 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:53.972 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:53.975 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:54.461 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:54.577 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:54.579 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:54.581 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:54.584 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:54.609 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:54.627 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using username arjunganesan@jmangroup.com
+[33m[2023-Jun-29 18:16:54.627 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using password User1234
+[33m[2023-Jun-29 18:16:56.467 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.takeScreenshot][m [36m[DEBUG][m Screenshot is taken and saved at the location  C:\Users\SouravKumar\eclipse-workspace\Wipit/test-results/Screenshots/1688042816115.png
+[33m[2023-Jun-29 18:16:56.470 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [33m[WARN][m User login to the Application is unsuccessful.
+[33m[2023-Jun-29 18:16:57.773 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:57.775 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:57.778 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:57.780 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:57.803 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:57.833 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:57.834 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:57.836 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:57.838 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:57.854 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:57.872 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using username jenson.mansoor@falltrack.net
+[33m[2023-Jun-29 18:16:57.872 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using password Sourav12345
+[33m[2023-Jun-29 18:16:58.589 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.takeScreenshot][m [36m[DEBUG][m Screenshot is taken and saved at the location  C:\Users\SouravKumar\eclipse-workspace\Wipit/test-results/Screenshots/1688042818273.png
+[33m[2023-Jun-29 18:16:58.595 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [33m[WARN][m User login to the Application is unsuccessful.
+[33m[2023-Jun-29 18:16:58.948 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:58.950 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:58.951 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:58.952 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:58.967 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:59.005 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:16:59.007 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:16:59.011 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:16:59.013 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:16:59.026 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:16:59.039 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using username jenson@falltrack.net
+[33m[2023-Jun-29 18:16:59.040 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using password Sourav123
+[33m[2023-Jun-29 18:17:00.247 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.takeScreenshot][m [36m[DEBUG][m Screenshot is taken and saved at the location  C:\Users\SouravKumar\eclipse-workspace\Wipit/test-results/Screenshots/1688042819941.png
+[33m[2023-Jun-29 18:17:00.254 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [33m[WARN][m User login to the Application is unsuccessful.
+[33m[2023-Jun-29 18:17:01.277 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'false'
+[33m[2023-Jun-29 18:17:01.598 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2023-Jun-29 18:17:04.166 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:17:04.167 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:17:04.168 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:17:04.169 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:17:04.190 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:17:04.208 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2023-Jun-29 18:17:04.209 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2023-Jun-29 18:17:04.210 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2023-Jun-29 18:17:04.211 IST][m [37m[Thread ID: 1][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2023-Jun-29 18:17:04.222 IST][m [37m[Thread ID: 1][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2023-Jun-29 18:17:04.234 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using username sau@jmangroup.com
+[33m[2023-Jun-29 18:17:04.235 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [32m[INFO][m Login to Application using password Sourav12345
+[33m[2023-Jun-29 18:17:06.080 IST][m [37m[Thread ID: 1][m [94m[PlaywrightFactory.takeScreenshot][m [36m[DEBUG][m Screenshot is taken and saved at the location  C:\Users\SouravKumar\eclipse-workspace\Wipit/test-results/Screenshots/1688042825689.png
+[33m[2023-Jun-29 18:17:06.083 IST][m [37m[Thread ID: 1][m [94m[PageObject.doLoginInvalid][m [33m[WARN][m User login to the Application is unsuccessful.
